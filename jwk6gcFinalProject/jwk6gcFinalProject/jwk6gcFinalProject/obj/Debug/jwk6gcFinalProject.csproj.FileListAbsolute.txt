@@ -1,0 +1,15 @@
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\bin\Debug\jwk6gcFinalProject.exe.config
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\bin\Debug\jwk6gcFinalProject.exe
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\bin\Debug\jwk6gcFinalProject.pdb
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\jwk6gcFinalProject.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\jwk6gcFinalProject_MarkupCompile.cache
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\jwk6gcFinalProject_MarkupCompile.lref
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\jwk6gcFinalProject.g.resources
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\jwk6gcFinalProject.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\jwk6gcFinalProject.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\jwk6gcFinalProject.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\jwk6gcFinalProject.exe
+\\vmware-host\Shared Folders\Desktop\jwk6gcFinalProject\jwk6gcFinalProject\jwk6gcFinalProject\obj\Debug\jwk6gcFinalProject.pdb

@@ -1,0 +1,14 @@
+Decription
+
+- For my project i decided to put a twist on the game of blackjack
+- The player will go to the game and begin with a bankroll of 2000$
+- They can then choose however much they want to wager with the betting chip
+	denominations.
+- Then the cards are played the user will be able to not only see their cards but also 
+	the dealers.
+- The user has the option to stand or hit on their hand as they compare their hand to the
+	users.
+- I have 3 classes which i talk about within the video i have included in this zip.
+- To win the user must have a higher total card value then the dealer, if the user has 
+	a total card value of over 21 they will bust. 
+
